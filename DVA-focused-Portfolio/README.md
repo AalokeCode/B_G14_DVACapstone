@@ -1,17 +1,23 @@
 # DVA-Focused Portfolio
 
-Use this folder as a reminder for each student to convert the capstone into a portfolio-ready case study.
+## 🎯 Team Portfolio Links
 
-## Portfolio Case Study Should Cover
+> **Each team member should add their name and portfolio link below.**
 
-- Problem statement and stakeholder context
-- Dataset source and scope
-- Cleaning and transformation summary
-- KPI framework
-- 3-5 key insights
-- Tableau dashboard screenshots and link
-- Recommendations and expected impact
+1. **Name:** `Aryan Kinha`  
+   🔗 [Portfolio Link](https://aryankinha.github.io/data_analytics_profile/)
 
-## Suggested Deliverable
+2. **Name:** `Your Name Here`  
+   🔗 [Portfolio Link](#)
 
-Add a short write-up in your personal portfolio site, Notion page, or PDF case study with a link back to this repository.
+3. **Name:** `Your Name Here`  
+   🔗 [Portfolio Link](#)
+
+4. **Name:** `Your Name Here`  
+   🔗 [Portfolio Link](#)
+
+5. **Name:** `Your Name Here`  
+   🔗 [Portfolio Link](#)
+
+6. **Name:** `Your Name Here`  
+   🔗 [Portfolio Link](#)
